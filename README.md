@@ -1,4 +1,4 @@
-# dev.calculator
+# calc.app
 jus a lil sideproject for me
 
 This project is a simple web-based calculator with additional UI enhancements.
