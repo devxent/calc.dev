@@ -1,4 +1,4 @@
-# calc.app
+# calc.dev
 
 This project is a simple web-based calculator with additional UI enhancements.
 
